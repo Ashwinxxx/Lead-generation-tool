@@ -35,7 +35,7 @@ def local_css():
 local_css()
 
 # ---- API Configuration ----
-GNEWS_API_KEY = "YOUR_GNEWS_API_KEY"
+GNEWS_API_KEY = "ec527836565a28003689db598195abb1"
 NEWS_API_ENDPOINT = "https://gnews.io/api/v4/search"
 
 POSITIVE_KEYWORDS = ["growth", "expansion", "profit", "acquisition", "partnership", "innovative", "successful", "revenue increase", "market leader", "strong performance"]
