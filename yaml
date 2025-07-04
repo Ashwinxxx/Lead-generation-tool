@@ -8,3 +8,7 @@
 ```bash
 git clone https://github.com/Ashwinxxx/Lead-generation-tool.git
 cd Lead-generation-tool
+Streamlit run this app using 
+
+streamlit run streamlit-app.py
+
