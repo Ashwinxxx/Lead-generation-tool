@@ -3,6 +3,12 @@ import pandas as pd
 import json
 import requests
 from time import sleep
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+GNEWS_API_KEY = os.getenv("GNEWS_API_KEY")
+
 
 # ---- Streamlit App Config ----
 st.set_page_config(page_title="Caprae Lead Scorer", layout="wide", page_icon="📊")
